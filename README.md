@@ -1,9 +1,44 @@
-# Portfólio
+Portfólio - Guilherme Hecksher
+Olá! 👋 Bem-vindo ao meu portfólio. Este repositório contém meu site pessoal, criado para apresentar minhas experiências, projetos e informações sobre mim.
 
-Este é um portfólio desenvolvido com HTML, CSS e JavaScript.
+📄 Sobre Mim
+Nome: Guilherme Hecksher
+Idade: 18 anos
+Curso: Ciência da Computação - Cesar School
 
-## Funcionalidades
+Interesses:
 
-- HTML e CSS para estrutura e estilo. 
-- **JavaScript** Clicar em um botão que redireciona para meu perfil no linkedin.
-- Navegação entre páginas.
+Jogos de videogame 🎮
+Desenvolvimento de jogos
+Assistir esportes (Tênis, Futebol e Futebol Americano) 🏆
+Exploração de vídeos e conteúdos sobre criação de jogos no YouTube 📹
+Meu objetivo profissional é transformar minha paixão por jogos em minha carreira.
+
+🚀 Funcionalidades
+Seção Sobre Mim: Informações pessoais, interesses e objetivos profissionais.
+Seção Projetos: Apresentação dos meus projetos e colaborações.
+Seção Contato: Contato direto por e-mail ou LinkedIn.
+Navegação responsiva e amigável.
+Link claro para visualizar meus projetos e experiências.
+🛠️ Tecnologias
+O projeto foi construído utilizando as seguintes tecnologias:
+
+HTML5 para estruturação do conteúdo.
+CSS3 para estilização e design responsivo.
+JavaScript para interatividade e funcionalidade adicional.
+💻 Como Executar Localmente
+Caso queira visualizar o projeto localmente, siga os passos:
+
+Clone o repositório para sua máquina:
+bash
+Copiar código
+git clone https://github.com/Schamschu/portif-lio
+Navegue até o diretório do projeto:
+bash
+Copiar código
+cd nome-do-repositorio
+Abra o arquivo index.html em seu navegador.
+
+📧 Contato
+Se você quiser entrar em contato comigo, envie um e-mail para guilhermescvh@gmail.com ou me procure no LinkedIn Guilherme Hecksher.
+
