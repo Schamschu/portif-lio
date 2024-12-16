@@ -28,18 +28,7 @@ HTML5 para estruturação do conteúdo.
 CSS3 para estilização e design responsivo.
 JavaScript para interatividade e funcionalidade adicional.
 💻 Como Executar Localmente
-Caso queira visualizar o projeto localmente, siga os passos:
-
-Clone o repositório para sua máquina:
-bash
-Copiar código
-git clone https://github.com/Schamschu/portif-lio
-Navegue até o diretório do projeto:
-bash
-Copiar código
-cd nome-do-repositorio
-Abra o arquivo index.html em seu navegador.
-
+Caso queira visualizar o projeto localmente: file:///C:/Users/gscvh_cesar/Desktop/html/contato.html
 📧 Contato
 Se você quiser entrar em contato comigo, envie um e-mail para guilhermescvh@gmail.com ou me procure no LinkedIn Guilherme Hecksher.
 
