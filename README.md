@@ -21,15 +21,13 @@ Seção Projetos: Apresentação dos meus projetos e colaborações.
 Seção Contato: Contato direto por e-mail ou LinkedIn.
 Navegação responsiva e amigável.
 Link claro para visualizar meus projetos e experiências.
+
 🛠️ Tecnologias
 O projeto foi construído utilizando as seguintes tecnologias:
 
 HTML5 para estruturação do conteúdo.
 CSS3 para estilização e design responsivo.
-JavaScript para interatividade e funcionalidade adicional.
-
-💻 Como Executar Localmente
-Caso queira visualizar o projeto localmente: file:///C:/Users/gscvh_cesar/Desktop/html/contato.html
+JavaScript para funcionalidade adicional (copiar o e-mail).
 
 📧 Contato
 Se você quiser entrar em contato comigo, envie um e-mail para guilhermescvh@gmail.com ou me procure no LinkedIn Guilherme Hecksher.
